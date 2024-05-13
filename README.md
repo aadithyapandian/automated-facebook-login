@@ -1,2 +1,2 @@
 # automated-facebook-login
-Selenium automation testing for facebook login page
+Selenium automation script for facebook login page
